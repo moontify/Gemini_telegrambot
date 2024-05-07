@@ -1,0 +1,11 @@
+gemini-api==0.1.6
+google-ai-generativelanguage==0.6.2
+google-api-core==2.19.0
+google-api-python-client==2.127.0
+google-auth==2.29.0
+google-auth-httplib2==0.2.0
+google-generativeai==0.5.2
+googleapis-common-protos==1.63.0
+pyTelegramBotAPI==4.14.0
+requests==2.31.0
+telegram==0.0.1
